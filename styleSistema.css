@@ -1,0 +1,14 @@
+body{
+    background-image: linear-gradient(to right, rgb(20,147,220), rgb(17,54,71));
+    color: white;
+    text-align: center;
+   
+}
+
+img{
+
+    margin: 5%;
+    height: 500px;
+    width: 500px;
+
+}
